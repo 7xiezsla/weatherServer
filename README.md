@@ -19,6 +19,6 @@ const config = { useNewUrlParser: true, useUnifiedTopology: true };
 export const mongoClient = new MongoClient(uri, config);
 ```
 
-If connect to your mongodb successfully, you can run `npm start` and console would show the shortcut to verify the project.
+After checking uri, you can run `npm install` and `npm start` and console would show the shortcut to verify the project.
 
 Enjoy on this application!!!
