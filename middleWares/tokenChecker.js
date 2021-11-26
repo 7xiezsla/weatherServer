@@ -9,7 +9,7 @@ const tokenChecker = (req, res, next) => {
       if (result === 1) {
         next();
       } else {
-        res.send("Invalid Token! please use the apikey given in console.");
+        res.send("Invalid apikey! please use the apikey given in console.");
         // res.sendStatus(401);
       }
     });
