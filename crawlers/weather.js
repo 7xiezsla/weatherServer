@@ -1,8 +1,5 @@
 import moment from "moment";
-
 import { mongoClient } from "../global/global.js";
-// Althought request is deprecated now, it still work.
-// Otherwise node-fetch in ES6 isn't stable.
 import request from "request";
 
 const dataid = "O-A0003-001";
