@@ -1,0 +1,1 @@
+GET http://localhost:3000/weather?CITY=臺北市&TOWN=南港區&apikey=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI3NTk1MzVkOS0yYmJhLTRmNDItODJhOC02ODQxMzUzMWQ5NjMiLCJpYXQiOjE2Mzc5NTQyMDF9.Lez8PO-ya9vl9plbX-bnE5bRy6wcDUahewfv3yb9gY
